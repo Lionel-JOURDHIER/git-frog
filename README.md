@@ -1,6 +1,6 @@
 # Exercice Git - Projet Machine Learning
 
-## 🎯 Objectif
+## Objectif
 Apprendre à collaborer avec Git en travaillant **en binôme** sur un petit projet de machine learning.
 
 ---
